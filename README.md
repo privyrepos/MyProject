@@ -1,0 +1,2 @@
+# MyProject
+simple ember repo
