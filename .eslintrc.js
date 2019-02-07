@@ -36,5 +36,6 @@ module.exports = {
         node: true
       }
     }
-  ]
+  ],
+  globals: {"percySnapshot": true}
 };
